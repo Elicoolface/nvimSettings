@@ -1,0 +1,1 @@
+Change your path variables to include python install within user variables. maybe fixes uvicorn not working
