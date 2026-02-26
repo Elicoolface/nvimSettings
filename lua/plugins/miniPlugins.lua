@@ -5,4 +5,8 @@ return {
     {  -- Git
 	'tpope/vim-fugitive',
     },
+    {
+	'mason-org/mason.nvim',
+	opts = {}
+    },
 }
