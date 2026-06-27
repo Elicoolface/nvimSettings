@@ -9,4 +9,7 @@ return {
 	'mason-org/mason.nvim',
 	opts = {}
     },
+    { -- DB interaction
+	'tpope/vim-dadbod',
+    },
 }
